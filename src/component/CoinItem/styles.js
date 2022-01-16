@@ -22,7 +22,8 @@ const styles = StyleSheet.create({
     padding: '4%'
   },
   rightview: {
-    marginLeft: 'auto'
+    marginLeft: 'auto',
+    alignItems:'flex-end'
   },
   rank: {
     fontWeight: 'bold',
